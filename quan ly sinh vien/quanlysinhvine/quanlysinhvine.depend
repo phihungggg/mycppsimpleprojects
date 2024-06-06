@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705997060 source:d:\project c++\quan ly sinh vien\quanlysinhvine\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705036631 source:d:\project c++\toantugan\toantugan\main.cpp
+	<iostream>
+	<string.h>
+

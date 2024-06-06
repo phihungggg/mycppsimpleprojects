@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706258949 source:d:\project c++\pointers\shared_pointer\sharedpointer\main.cpp
+	<iostream>
+	<memory>
+

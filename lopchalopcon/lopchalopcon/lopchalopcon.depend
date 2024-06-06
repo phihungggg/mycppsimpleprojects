@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706169396 source:d:\project c++\lopchalopcon\lopchalopcon\main.cpp
+	<iostream>
+	<vector>
+

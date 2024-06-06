@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706256857 source:d:\project c++\smartpointer\main.cpp
+	<iostream>
+	<memory>
+
